@@ -90,7 +90,7 @@ EDA confirms the project's hypotheses and focuses on visualizing cancellation di
 * **Secondary Factors:** Hotel Type (**Resort**), Booking Channel (**OTA**), and Arrival Month (**January**).
 
 **Q2: How can we make hotel reservations cancellations better?**
-* By using price and channel-specific recommendations to proactively reduce cancellation risk.
+* By using price recommendations to proactively reduce cancellation risk.
 
 **Q3: How will hotels be assisted in making pricing and promotional decisions?**
 * By providing time-specific (January) and hotel-type-specific (Resort Hotel weekends/holidays) advice for targeted discounting.
